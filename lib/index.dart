@@ -1,0 +1,21 @@
+// Export pages
+export '/pages/main_dashboard/main_dashboard_widget.dart'
+    show MainDashboardWidget;
+export '/pages/r_m_receiving_form/r_m_receiving_form_widget.dart'
+    show RMReceivingFormWidget;
+export '/pages/small_bag_weighing_station/small_bag_weighing_station_widget.dart'
+    show SmallBagWeighingStationWidget;
+export '/pages/trolley_batch_setup/trolley_batch_setup_widget.dart'
+    show TrolleyBatchSetupWidget;
+export '/pages/b_o_m_material_checklist_s31/b_o_m_material_checklist_s31_widget.dart'
+    show BOMMaterialChecklistS31Widget;
+export '/pages/trolley_final_verification_s32/trolley_final_verification_s32_widget.dart'
+    show TrolleyFinalVerificationS32Widget;
+export '/pages/s_f_g_batch_linking_s4/s_f_g_batch_linking_s4_widget.dart'
+    show SFGBatchLinkingS4Widget;
+export '/pages/traceability_search/traceability_search_widget.dart'
+    show TraceabilitySearchWidget;
+export '/pages/hardware_configuration/hardware_configuration_widget.dart'
+    show HardwareConfigurationWidget;
+export '/pages/user_management/user_management_widget.dart'
+    show UserManagementWidget;
